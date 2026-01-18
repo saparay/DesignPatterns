@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="FactoryDesignPattern/FactoryDesignPattern.csproj" />
   <Project Path="FactoryDesignPatternRealTimeExamples/FactoryDesignPatternRealTimeExamples.csproj" />
+  <Project Path="FactoryMethodDesignPattern/FactoryMethodDesignPattern.csproj" />
+  <Project Path="FactoryMethodDesignPatternRealTimeExample/FactoryMethodDesignPatternRealTimeExample.csproj" />
 </Solution>
