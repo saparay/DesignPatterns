@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj" Id="fdae1230-efab-4b33-b118-cc0c7d40a535" />
+  <Project Path="AbstractFactoryDesignPatternRealTimeExample/AbstractFactoryDesignPatternRealTimeExample.csproj" Id="6332bd1a-6003-497a-a003-b65ab497e23c" />
   <Project Path="FactoryDesignPattern/FactoryDesignPattern.csproj" />
   <Project Path="FactoryDesignPatternRealTimeExamples/FactoryDesignPatternRealTimeExamples.csproj" />
   <Project Path="FactoryMethodDesignPattern/FactoryMethodDesignPattern.csproj" />
