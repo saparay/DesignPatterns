@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="AbstractFactoryDesignPattern/AbstractFactoryDesignPattern.csproj" Id="fdae1230-efab-4b33-b118-cc0c7d40a535" />
   <Project Path="AbstractFactoryDesignPatternRealTimeExample/AbstractFactoryDesignPatternRealTimeExample.csproj" Id="6332bd1a-6003-497a-a003-b65ab497e23c" />
+  <Project Path="BuilderDesignPattern/BuilderDesignPattern.csproj" Id="694db504-e9f9-4f72-b5df-7fcfd758b7c9" />
+  <Project Path="BuilderDesignPatternReatTimeExample/BuilderDesignPatternReatTimeExample.csproj" Id="02b576f1-abd1-47c1-9b0d-58a1fdf98924" />
   <Project Path="FactoryDesignPattern/FactoryDesignPattern.csproj" />
   <Project Path="FactoryDesignPatternRealTimeExamples/FactoryDesignPatternRealTimeExamples.csproj" />
   <Project Path="FactoryMethodDesignPattern/FactoryMethodDesignPattern.csproj" />
