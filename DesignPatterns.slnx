@@ -9,4 +9,5 @@
   <Project Path="FactoryMethodDesignPatternRealTimeExample/FactoryMethodDesignPatternRealTimeExample.csproj" />
   <Project Path="FluentInterfaceDesignPattern/FluentInterfaceDesignPattern.csproj" Id="30e9741e-250a-4ef5-81bd-33f0b9ccd51c" />
   <Project Path="FluentInterfaceDesignPatternRealTimeExample/FluentInterfaceDesignPatternRealTimeExample.csproj" Id="db8f84de-268a-464f-aca4-6ffad7940eb8" />
+  <Project Path="PrototypeDesignPattern/PrototypeDesignPattern.csproj" Id="ab6fdd80-d735-4c2d-b01c-6c823841a2d9" />
 </Solution>
