@@ -13,4 +13,5 @@
   <Project Path="PrototypeDesignPatternRealTimeExample/PrototypeDesignPatternRealTimeExample.csproj" Id="36bfd8c6-2b87-49a6-9dae-7eddb7a4adf1" />
   <Project Path="ShallowCopyDeepCopyDemo/ShallowCopyDeepCopyDemo.csproj" Id="276f4db2-3ddc-4a72-ba10-17476948bf3e" />
   <Project Path="SingletonDesignPattern/SingletonDesignPattern.csproj" Id="6f178e49-96f0-4a0d-aa6c-9711452f03b6" />
+  <Project Path="SingletonDesignPatternRealTimeExample/SingletonDesignPatternRealTimeExample.csproj" Id="fba757c4-14ae-4e82-81ae-e5859f48e0a1" />
 </Solution>
