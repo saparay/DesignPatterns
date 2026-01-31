@@ -5,6 +5,7 @@
   <Project Path="AdapterDesignPatternRealTimeExample/AdapterDesignPatternRealTimeExample.csproj" Id="f0516de4-6597-4cd0-b613-a67e0be109cd" />
   <Project Path="BuilderDesignPattern/BuilderDesignPattern.csproj" Id="694db504-e9f9-4f72-b5df-7fcfd758b7c9" />
   <Project Path="BuilderDesignPatternReatTimeExample/BuilderDesignPatternReatTimeExample.csproj" Id="02b576f1-abd1-47c1-9b0d-58a1fdf98924" />
+  <Project Path="FacadeDesignPattern/FacadeDesignPattern.csproj" Id="a6a335ad-9798-4dc5-bf73-50e40d18de70" />
   <Project Path="FactoryDesignPattern/FactoryDesignPattern.csproj" />
   <Project Path="FactoryDesignPatternRealTimeExamples/FactoryDesignPatternRealTimeExamples.csproj" />
   <Project Path="FactoryMethodDesignPattern/FactoryMethodDesignPattern.csproj" />
