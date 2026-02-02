@@ -3,6 +3,7 @@
   <Project Path="AbstractFactoryDesignPatternRealTimeExample/AbstractFactoryDesignPatternRealTimeExample.csproj" Id="6332bd1a-6003-497a-a003-b65ab497e23c" />
   <Project Path="AdapterDesignPattern/AdapterDesignPattern.csproj" Id="f9e4ee05-dc42-4774-bc09-72acf0749cb3" />
   <Project Path="AdapterDesignPatternRealTimeExample/AdapterDesignPatternRealTimeExample.csproj" Id="f0516de4-6597-4cd0-b613-a67e0be109cd" />
+  <Project Path="BridgeDesignPattern/BridgeDesignPattern.csproj" Id="d41f74a9-1f60-4251-8ba2-8d7c27e29ae4" />
   <Project Path="BuilderDesignPattern/BuilderDesignPattern.csproj" Id="694db504-e9f9-4f72-b5df-7fcfd758b7c9" />
   <Project Path="BuilderDesignPatternReatTimeExample/BuilderDesignPatternReatTimeExample.csproj" Id="02b576f1-abd1-47c1-9b0d-58a1fdf98924" />
   <Project Path="DecoratorDesignPattern/DecoratorDesignPattern.csproj" Id="6c285e4e-d527-4fd2-9a25-ad82a48750d5" />
