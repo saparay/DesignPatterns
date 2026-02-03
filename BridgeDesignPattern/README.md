@@ -1,1 +1,1 @@
-## Builder Design pattern 
+## Bridge Design pattern 
