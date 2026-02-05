@@ -17,6 +17,7 @@
   <Project Path="FluentInterfaceDesignPattern/FluentInterfaceDesignPattern.csproj" Id="30e9741e-250a-4ef5-81bd-33f0b9ccd51c" />
   <Project Path="FluentInterfaceDesignPatternRealTimeExample/FluentInterfaceDesignPatternRealTimeExample.csproj" Id="db8f84de-268a-464f-aca4-6ffad7940eb8" />
   <Project Path="FlyweightDesignPattern/FlyweightDesignPattern.csproj" Id="35e182ba-d0dc-4f88-84f4-51faf19ff74c" />
+  <Project Path="FlyweightDesignPatternRealTimeExample/FlyweightDesignPatternRealTimeExample.csproj" Id="14a1fa0f-bf5e-494d-ad24-b88b5f7e9519" />
   <Project Path="PrototypeDesignPattern/PrototypeDesignPattern.csproj" Id="ab6fdd80-d735-4c2d-b01c-6c823841a2d9" />
   <Project Path="PrototypeDesignPatternRealTimeExample/PrototypeDesignPatternRealTimeExample.csproj" Id="36bfd8c6-2b87-49a6-9dae-7eddb7a4adf1" />
   <Project Path="ShallowCopyDeepCopyDemo/ShallowCopyDeepCopyDemo.csproj" Id="276f4db2-3ddc-4a72-ba10-17476948bf3e" />
