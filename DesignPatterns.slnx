@@ -20,6 +20,7 @@
   <Project Path="FlyweightDesignPatternRealTimeExample/FlyweightDesignPatternRealTimeExample.csproj" Id="14a1fa0f-bf5e-494d-ad24-b88b5f7e9519" />
   <Project Path="PrototypeDesignPattern/PrototypeDesignPattern.csproj" Id="ab6fdd80-d735-4c2d-b01c-6c823841a2d9" />
   <Project Path="PrototypeDesignPatternRealTimeExample/PrototypeDesignPatternRealTimeExample.csproj" Id="36bfd8c6-2b87-49a6-9dae-7eddb7a4adf1" />
+  <Project Path="ProxyDesignPattern/ProxyDesignPattern.csproj" Id="f21ff22a-7a4d-44f2-933b-8ab5bd81f718" />
   <Project Path="ShallowCopyDeepCopyDemo/ShallowCopyDeepCopyDemo.csproj" Id="276f4db2-3ddc-4a72-ba10-17476948bf3e" />
   <Project Path="SingletonDesignPattern/SingletonDesignPattern.csproj" Id="6f178e49-96f0-4a0d-aa6c-9711452f03b6" />
   <Project Path="SingletonDesignPatternRealTimeExample/SingletonDesignPatternRealTimeExample.csproj" Id="fba757c4-14ae-4e82-81ae-e5859f48e0a1" />
