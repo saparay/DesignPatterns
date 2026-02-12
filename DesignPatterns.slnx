@@ -6,6 +6,7 @@
   <Project Path="BridgeDesignPattern/BridgeDesignPattern.csproj" Id="d41f74a9-1f60-4251-8ba2-8d7c27e29ae4" />
   <Project Path="BuilderDesignPattern/BuilderDesignPattern.csproj" Id="694db504-e9f9-4f72-b5df-7fcfd758b7c9" />
   <Project Path="BuilderDesignPatternReatTimeExample/BuilderDesignPatternReatTimeExample.csproj" Id="02b576f1-abd1-47c1-9b0d-58a1fdf98924" />
+  <Project Path="CacheProxyDesignPattern/CacheProxyDesignPattern.csproj" Id="7e47d16b-21b9-4238-8fb4-c6142eddae11" />
   <Project Path="CompositeDesignPattern/CompositeDesignPattern.csproj" Id="adae254f-9ded-433d-ad6c-9d9f22c9da4b" />
   <Project Path="CompositeDesignPatternRealTimeExample/CompositeDesignPatternRealTimeExample.csproj" Id="e5a1aa1e-f9ce-4ab2-84eb-4a9433efab74" />
   <Project Path="DecoratorDesignPattern/DecoratorDesignPattern.csproj" Id="6c285e4e-d527-4fd2-9a25-ad82a48750d5" />
