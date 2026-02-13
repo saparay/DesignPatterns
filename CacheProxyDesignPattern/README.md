@@ -32,7 +32,7 @@ public interface IProfilePictureService
     byte[] GetProfilePicture(int userId);
 }
 ```
-------------------------------
+------------------------------ 
 
 ## DatabaseProfilePictureService (Real Subject)
 
