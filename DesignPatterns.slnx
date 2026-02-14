@@ -15,6 +15,7 @@
   <Project Path="FactoryDesignPatternRealTimeExamples/FactoryDesignPatternRealTimeExamples.csproj" />
   <Project Path="FactoryMethodDesignPattern/FactoryMethodDesignPattern.csproj" />
   <Project Path="FactoryMethodDesignPatternRealTimeExample/FactoryMethodDesignPatternRealTimeExample.csproj" />
+  <Project Path="FirewallProxyDesignPattern/FirewallProxyDesignPattern.csproj" Id="0e1cc53f-98f0-4880-a841-444db0ad699d" />
   <Project Path="FluentInterfaceDesignPattern/FluentInterfaceDesignPattern.csproj" Id="30e9741e-250a-4ef5-81bd-33f0b9ccd51c" />
   <Project Path="FluentInterfaceDesignPatternRealTimeExample/FluentInterfaceDesignPatternRealTimeExample.csproj" Id="db8f84de-268a-464f-aca4-6ffad7940eb8" />
   <Project Path="FlyweightDesignPattern/FlyweightDesignPattern.csproj" Id="35e182ba-d0dc-4f88-84f4-51faf19ff74c" />
@@ -27,5 +28,6 @@
   <Project Path="ShallowCopyDeepCopyDemo/ShallowCopyDeepCopyDemo.csproj" Id="276f4db2-3ddc-4a72-ba10-17476948bf3e" />
   <Project Path="SingletonDesignPattern/SingletonDesignPattern.csproj" Id="6f178e49-96f0-4a0d-aa6c-9711452f03b6" />
   <Project Path="SingletonDesignPatternRealTimeExample/SingletonDesignPatternRealTimeExample.csproj" Id="fba757c4-14ae-4e82-81ae-e5859f48e0a1" />
+  <Project Path="SynchronizationProxyDesignPattern/SynchronizationProxyDesignPattern.csproj" Id="bf8e40d9-2f3e-4891-8f02-6c524b8a63bf" />
   <Project Path="VirtualProxyDesignPattern/VirtualProxyDesignPattern.csproj" Id="18418577-7e38-43cf-8eb7-a2e5d140ae9f" />
 </Solution>
